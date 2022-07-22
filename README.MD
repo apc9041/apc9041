@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/Apichart.png"></div>
+<div align="center"><img src="https://github.com/apc9041/apc9041/blob/master/assets/Apichart.png?raw=true"></div>
 
 ![](https://komarev.com/ghpvc/?username=bobow22&color=ff69b4&style=flat)
 
